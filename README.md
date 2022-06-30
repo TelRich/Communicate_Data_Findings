@@ -51,7 +51,7 @@ Total product purchased from this category falls between 2,000 and 2,500. Amongs
 >
 >The Central region purchases more Office supplies products. This region generates the lowest profit (average below $20) and it was later discovered that most of the state with loss falls in this region.
 >
->We know that Technology generated the most profit but the most contributor to this was the East region. East generated an average profit of approximately $89 from the Technology category. 
+>Technology generated the most profit but the most contributor to this was the East region. East generated an average profit of approximately $89 from the Technology category. 
 
 >In the sub-category, Phones from technology category generated the highest sales (above $33K) followed by Chairs (approximately $33K) from furniture category. Meanwhile, Fasteners in the office supplies category generate the lowest sales(below $3.5K).
 
